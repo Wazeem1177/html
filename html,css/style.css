@@ -1,0 +1,21 @@
+/* *{
+    color: blueviolet;
+} */
+body{
+    background-color: chocolate;
+}
+h1{
+    color: aqua;
+}
+#parag{
+    color: blue;
+}
+.cls{
+    color: brown;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+p,div{
+    color: chartreuse;
+}
