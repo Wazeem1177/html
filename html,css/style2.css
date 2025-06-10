@@ -12,11 +12,3 @@ div > p{
 div ~ p{
     color: brown;
 }
-
-input:focus {
-  border-color: green;
-}
-
-a:active {
-  color: red;
-}

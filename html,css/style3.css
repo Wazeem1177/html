@@ -1,0 +1,21 @@
+button{
+    border-radius: 50px;
+}
+button:hover{
+    background-color: brown;
+    color: aqua;
+    cursor: pointer;
+    border-radius: 10px;
+}
+input:focus {
+  border-color: green;
+}
+a:active {
+  color: red;
+}
+p:first-child{
+  color: rgb(119, 255, 0);
+}
+p:last-child {
+  color: blue;
+}
