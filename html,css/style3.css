@@ -19,3 +19,6 @@ p:first-child{
 p:last-child {
   color: blue;
 }
+input:checked {
+  outline: 2px solid orange;
+}
