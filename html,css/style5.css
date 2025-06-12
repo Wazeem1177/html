@@ -1,0 +1,43 @@
+body{
+    background-color: bisque;
+}
+.p1{
+    text-transform: uppercase;
+    text-indent: 25%;
+    letter-spacing: 10px;
+    line-height: 25px;
+    word-spacing: 15px;
+    white-space: nowrap;
+}
+.p2{
+    text-transform: lowercase;
+}
+.p3{
+    text-transform: capitalize;
+    font-size: 75px;
+    text-shadow: 2px 2px red 5px;
+}
+
+.outercontainer{
+    background-color: blueviolet;
+    height: 25rem;
+    width: 40rem;
+    border: 2px solid red;
+}
+.innercontainer{
+    background-color: aqua;
+    width: 50%;
+    height: 50%;
+    border: 2px solid red;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+}
+h1{
+    background-color: blue;
+}
