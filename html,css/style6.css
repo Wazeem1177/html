@@ -1,0 +1,87 @@
+body{
+    background-color: antiquewhite;
+}
+.div1{
+     background-color: aqua;
+     width: 200px;
+     height: 100px;
+    border-style: dashed;
+    border-color: darkblue;
+    border-width: 5px;
+}
+.div2{
+     background-color: aqua;
+     width: 200px;
+     height: 100px;
+    border-style: dotted;
+    border-width: 3px;
+}
+.div3{
+     background-color: aqua;
+     width: 200px;
+     height: 100px;
+    border-style: solid;
+}
+.div4{
+     background-color: aqua;
+     width: 200px;
+     height: 100px;
+    border-style: double;
+}
+.div5{
+     background-color: aqua;
+     width: 200px;
+     height: 100px;
+    border-style: groove;
+}
+.btn1{
+    background-color: cadetblue;
+    color: aliceblue;
+    width: 200px;
+    height: 100px;
+    border: 2px solid red;
+    border-radius: 20px;
+}
+.btn2{
+    background-color: cadetblue;
+    color: aliceblue;
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    border-radius: 100px;
+    
+}
+.ab1{
+    display: inline;
+}
+.ab2{
+    display: block;
+}
+.ab3{
+    display: inline-block;
+    width: 50px;
+}
+.static{
+    background-color: chocolate;
+    width: 500px;
+    height: 250px;
+    position: static;
+}
+.relative1{
+    background-color: chocolate;
+    width: 500px;
+    height: 250px;
+    position: relative;
+}
+.relative2{
+    background-color: chocolate;
+    width: 500px;
+    height: 250px;
+    position: relative;
+}
+.absolute{
+    background-color: white;
+    width: 250px;
+    height: 150px;
+    position: absolute;
+}
