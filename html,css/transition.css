@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    height: 100vh;
+    width: 100%;
+}
+button{
+    border: none;
+    border-radius: 5px;
+    height: 60px;
+    width: 100px;
+    background-color: chocolate;
+    color: aliceblue;
+    box-shadow: 1px 1px 3px 1px rgb(0, 0, 0);
+    /* transition-delay: 1s;
+    transition-duration: 3s;
+    transition-property: width;
+    transition-timing-function: ease-in-out; */
+    transition: 3s ease-in-out 1s width;
+}
+button:hover{
+    background-color: brown;
+    width: 500px;
+}
